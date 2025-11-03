@@ -4,4 +4,10 @@ wandb
 .DS_store
 samples
 results
-pretrained_models
+
+/pretrained_models
+/output
+/scripts
+
+.claude
+CLAUDE.md
